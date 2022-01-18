@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Cleaning Minerals Pull Data for Minerals Field Inspections
 
 # Cat Schooley  
